@@ -67,7 +67,7 @@ The goal of the following hands-on-lab is to help you leverage the power of Visu
 
 6. Modify the `FROM` statement on `line 5` in the Dockerfile to use the MCR hosted .NET Core SDK image: `mcr.microsoft.com/dotnet/core/sdk:2.2`. 
 
-    ![](content/MCRUpdateSDK.png)
+    ![](content/MCRUpdateSDK.PNG)
 
 7. Now, you can use `F5` or `Ctrl+F5` to run your application in a Docker container!
    
