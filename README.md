@@ -191,4 +191,5 @@ The goal of the following content is to help you leverage the power of Visual St
   - [Kubernetes Hackfest](https://github.com/Azure/kubernetes-hackfest)
   - [Emerging Orchestration Trends](https://www.datadoghq.com/pdf/ContainerOrchestration2018.pdf)
   - [Recommended Kubernetes Tutorials](https://www.aquasec.com/wiki/display/containers/70+Best+Kubernetes+Tutorials#id-70BestKubernetesTutorials-helm)
+  - [AKS Cloud Security for a Cloud Native World Ebook](https://info.cloudops.com/azure-kubernetes-services-container-security?utm_campaign=White%20Papers&utm_content=87430661&utm_medium=social&utm_source=linkedin&hss_channel=lcp-2174281)
  
