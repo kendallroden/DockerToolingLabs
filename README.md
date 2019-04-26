@@ -1,4 +1,4 @@
-# Introductino to Visual Studio and VS Code Docker Tooling
+# Introduction to Visual Studio and Visual Studio Code Docker Tooling + Additional Learning Resources
 
 ## Overview 
 The goal of the following content is to help you leverage the power of Visual Studio and Visual Studio Code as you develop with Docker
@@ -81,11 +81,10 @@ The goal of the following content is to help you leverage the power of Visual St
    ![](content/DockerPS.PNG)
 
 
-9. **For the sake of not recreating the wheel, reference the following documentation to access hands-on-labs for working with multicontainer applications, container orchestators, Azure Dev Spaces and more. 
+9. **For the sake of not recreating the wheel, reference the following documentation to access hands-on-labs for working with multicontainer applications, container orchestators, Azure Dev Spaces and more.** 
    - [Container Tools in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/containers/?view=vs-2017)
    - [Azure Dev Spaces in Visual Studio and VS Code](https://docs.microsoft.com/en-us/azure/dev-spaces/)
-   - 
-
+  
 ## Working with Docker in Visual Studio Code
 
 ### Create a new project 
