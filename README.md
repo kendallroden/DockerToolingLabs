@@ -148,9 +148,6 @@ The goal of the following content is to help you leverage the power of Visual St
 
     ![](content/dockerdebug.PNG)
 
-
-8. **For the sake of not recreating the wheel, reference the following documentation [Container Tools in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/containers/?view=vs-2017)
-
 ## Additional Resources and Hands-on-Labs 
    
    - [Microsoft Cloud Workshop- Containers and DevOps](https://github.com/Microsoft/MCW-Containers-and-DevOps) 
