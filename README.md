@@ -78,7 +78,7 @@ The goal of the following content is to help you leverage the power of Visual St
 
 8. With your Containerized Docker application running in Visual Studio, open a Command Prompt window. Run the `docker ps` command to view the running container via the Docker CLI. 
    
-   ![](content/DockerPS.png)
+   ![](content/DockerPS.PNG)
 
 
 9. **For the sake of not recreating the wheel, reference the following documentation to access hands-on-labs for working with multicontainer applications, container orchestators, Azure Dev Spaces and more. 
