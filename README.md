@@ -1,7 +1,7 @@
 # Visual Studio Docker Tooling Labs
 
 ## Overview 
-The goal of the following hands-on-lab is to help you leverage the power of Visual Studio and Visual Studio Code as you develop with Docker
+The goal of the following content is geared toward helping you get started with Docker Tooling in Visual Studio. Other links are included for you to dive deeper into Docker for Windows and working with Docker in VS Code
 
 ## Prerequisites
 
