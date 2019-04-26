@@ -1,4 +1,4 @@
-# Introductino to Visual Studio and VS Code Docker Tooling
+# Introduction to Visual Studio and Visual Studio Code Docker Tooling + Additional Learning Resources
 
 ## Overview 
 The goal of the following content is to help you leverage the power of Visual Studio and Visual Studio Code as you develop with Docker
