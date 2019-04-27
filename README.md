@@ -147,6 +147,8 @@ The goal of the following content is to help you leverage the power of Visual St
 7. To add the necessary Debug Configuration, select `Add Configuration` from the Debug drop-down menu and then right-click on the Launch.json tool icon. Select `Docker:Launch .NET Core (Preview)`. While the auto-generated json should be enough to begin debugging, you may want to override default dockerBuild and dockerRun settings as you dig deeper
 
     ![](content/dockerdebug.PNG)
+    
+8. To keep digging deeper with VS Code and Docker, use the following [lab](https://training.play-with-docker.com/nodejs-live-debugging/)
 
 ## Additional Resources and Hands-on-Labs 
    
