@@ -159,6 +159,7 @@ The goal of the following content is to help you leverage the power of Visual St
    - [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet#why-docker)
    - [Awesome Docker: A curated list of Docker resources and project](https://github.com/veggiemonk/awesome-docker)
    - [Docker Images for working with .NET Core](https://github.com/dotnet/dotnet-docker)
+   - [Docker Internals by Docker Saigon](http://docker-saigon.github.io/post/Docker-Internals/)
    - [Docker web series](https://goto.docker.com/2019_AMER-Docker-Enterprise-Webinar-Series.html?utm=email)
    - [Containers Overview by Mark Russinovich](https://azure.microsoft.com/en-us/blog/containers-docker-windows-and-trends/)
    - [Getting a shell in Docker for Windows Moby VM](https://www.bretfisher.com/getting-a-shell-in-the-docker-for-windows-vm/)
