@@ -166,6 +166,8 @@ The goal of the following content is to help you leverage the power of Visual St
 - [Increase .NET productivity in VS 2019 video](https://www.youtube.com/watch?v=xqbQlZ6ZRyw)
 - [Learn Blazor](https://learn-blazor.com/getting-started/what-is-blazor/)
 - [Blazor homepage](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)  
+- [VS Magazine Tutorials](https://visualstudiomagazine.com/pages/topic-pages/visual-studio-tutorials.aspx)
+
    
    
  
